@@ -10,3 +10,6 @@ the rectangle representing the intersection of the two.)
 
 
 The task is a part of a course: Writing, Running, and Fixing Code in C (offered on Coursera by Duke University)
+
+other tasks from the course here - 
+https://github.com/snowwhitesheep/Duke-Writing-running-and-fixing-code-in-C-2
